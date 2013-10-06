@@ -1,0 +1,20 @@
+﻿<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Item">
+
+  <TemplateData>
+    <Name>EF4/EF5 Edmx Pre-generated Views Generator for VB.Net</Name>
+    <Description>A VB.Net T4 template for creating pre-generated views for applications using Entity Framework (EF4 or EF5) Model/Database First (Edmx) approach.</Description>
+    <DefaultName>ClassicEFEdmxVBNet.Views.tt</DefaultName>
+    <ProjectType>VisualBasic</ProjectType>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <Icon />
+    <AppendDefaultFileExtension>true</AppendDefaultFileExtension>
+    <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+    <RequiredFrameworkVersion>4.0</RequiredFrameworkVersion>
+    <TemplateID>moozzyk-ClassicEFEdmxViewGenT4TemplateVBNet</TemplateID>
+  </TemplateData>
+
+  <TemplateContent>
+    <ProjectItem OpenInEditor="false" SubType="" TargetFileName="$fileinputname$.tt" ReplaceParameters="true">ClassicEFEdmxVBNet.Views.tt</ProjectItem>
+  </TemplateContent>
+
+</VSTemplate>
