@@ -19,7 +19,6 @@
 <#@ import namespace="System.Globalization" #>
 <#@ import namespace="System.Data.Entity" #>
 <#@ import namespace="System.Data.Entity.Design" #>
-<#@ import namespace="System.Data.Entity.Infrastructure" #>
 <#@ import namespace="System.Data.Metadata.Edm" #>
 <#@ import namespace="System.Data.Mapping" #>
 <#@ import namespace="System.Linq" #>
