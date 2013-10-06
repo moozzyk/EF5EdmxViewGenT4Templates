@@ -78,8 +78,6 @@ Usage:
 				}
 			}
 		}
-
-		return generatedViews;
 	}
 
 	private static StorageMappingItemCollection GetMappingItemCollection(string edmxFilePath)
